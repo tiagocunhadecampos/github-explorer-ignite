@@ -7,6 +7,12 @@
 </a>
 </h2>
 
+ <br>
+   <p>
+    <img width="800" src="/src/assets/images/ghexplorer.svg">
+  </p>
+<br>
+
 <div align="justify">
 
 <h2> 📝 Conceitos aprendidos durante a resolução dos desafios</h2>
